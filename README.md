@@ -4,13 +4,18 @@
 
 - 📫 Como me encontrar: lourenco.h.colares@gmail.com
 
-### &#x1f4c8; My GitHub Stats🎯
+### &#x1f4c8; Minhas Estatísticas no GitHub🎯
  
-<h3 align="left">Visualizações do Perfil: 🧐</h3>
+<h4 align="left">Visualizações do Perfil: 🧐</h4>
   
 ![Profile views](https://gpvc.arturio.dev/Heber-Dsouza)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Dsouza&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Dsouza&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+    <img src="./animations/animation_500_kxa883sd.gif">
+</p>
+
 
 
 
