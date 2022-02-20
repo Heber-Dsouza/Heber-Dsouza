@@ -13,9 +13,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Dsouza&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<h4 align="left">Conquistas: 🏆</h4>
+
+
+
+
+<details><h4 align="left">Conquistas: 🏆</h4>
+<p align="left">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&theme=nord&margin-w=10)](https://github.com/Heber-Dsouza/github-profile-trophy)
+</details>
 
 <h4 align="left">Atividade: 📋</h4>
 
