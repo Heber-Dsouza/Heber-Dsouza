@@ -10,11 +10,13 @@
   
 ![Profile views](https://gpvc.arturio.dev/Heber-Dsouza)
 
-<p align="left">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Dsouza&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Dsouza&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-    <img src="./animations/animation_500_kxa883sd.gif">
-</p>
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Heber-Dsouza&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Heber-Dsouza&theme=vue-dark" />
+</p>  
+
 
 
 
