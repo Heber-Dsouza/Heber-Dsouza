@@ -4,6 +4,14 @@
 
 - 📫 Como me encontrar: lourenco.h.colares@gmail.com
 
+## &#x1f4c8; My GitHub Stats🎯
+ 
+<h3 align="left">Profile Views: 🧐</h3>
+  
+![Profile views](https://gpvc.arturio.dev/Heber-Dsouza)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Dsouza&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
