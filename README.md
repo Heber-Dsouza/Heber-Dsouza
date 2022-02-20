@@ -4,9 +4,9 @@
 
 - 📫 Como me encontrar: lourenco.h.colares@gmail.com
 
-## &#x1f4c8; My GitHub Stats🎯
+### &#x1f4c8; My GitHub Stats🎯
  
-<h3 align="left">Profile Views: 🧐</h3>
+<h3 align="left">Visualizações do Perfil: 🧐</h3>
   
 ![Profile views](https://gpvc.arturio.dev/Heber-Dsouza)
 
