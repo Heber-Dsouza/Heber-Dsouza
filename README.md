@@ -6,9 +6,6 @@
 
 ### &#x1f4c8; Minhas Estatísticas no GitHub🎯
  
-<h4 align="left">Visualizações do Perfil: 🧐</h4>
-  
-![Profile views](https://gpvc.arturio.dev/Heber-Dsouza)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Dsouza&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -26,6 +23,11 @@
 
 </details>
 
+
+
+<h4 align="left">Visualizações do Perfil: 🧐</h4>
+  
+![Profile views](https://gpvc.arturio.dev/Heber-Dsouza)
 
 
 <h4 align="left">Atividade: 📋</h4>
