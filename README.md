@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Dsouza&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&theme=nord&margin-h=15&margin-w=15)](https://github.com/Heber-Dsouza/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&theme=nord&margin-w=10)](https://github.com/Heber-Dsouza/github-profile-trophy)
 
 <h4 align="left">Atividade: </h4>
 
