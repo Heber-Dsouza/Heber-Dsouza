@@ -1,4 +1,4 @@
-### Olá! Eu sou Lourenço De Souza 👋
+<h1 align="center">Olá, eu sou Lourenço De Souza<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 - 🌱 Eu estou atualmente aprendendo Javascript e outras linguagens.
 
@@ -17,13 +17,16 @@
 
 
 
-<details><summary style="font-weight: bold">Conquistas: 🏆</summary>
+<details>
+<summary>Conquistas: 🏆</summary>
 
 <p align="left">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&theme=nord&margin-w=10)](https://github.com/Heber-Dsouza/github-profile-trophy)
 
 </details>
+
+
 
 <h4 align="left">Atividade: 📋</h4>
 
