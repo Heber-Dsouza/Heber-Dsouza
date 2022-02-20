@@ -17,7 +17,7 @@
 
 
 
-<details><summary>**Conquistas:** 🏆</summary>
+<details><summary style="font-weight: bold">Conquistas: 🏆</summary>
 
 <p align="left">
 
