@@ -10,7 +10,12 @@
   
 ![Profile views](https://gpvc.arturio.dev/Heber-Dsouza)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Dsouza&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&theme=nord)](https://github.com/Heber-Dsouza/github-profile-trophy)
+
+<h4 align="left">Atividade: </h4>
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Heber-Dsouza&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true" /> 
