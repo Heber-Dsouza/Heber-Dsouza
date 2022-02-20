@@ -1,4 +1,10 @@
-### Olá <desenvolvedores/>! Eu sou Lourenço De Souza 👋
+### Olá! Eu sou Lourenço De Souza 👋
+
+- 🌱 Eu estou atualmente aprendendo Javascript e outras linguagens.
+
+- 📫 Como me encontrar: lourenco.h.colares@gmail.com
+
+
 
 <!--
 **Heber-Dsouza/Heber-Dsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
