@@ -17,11 +17,12 @@
 
 
 
-<summary><h4 align="left">Conquistas: 🏆</h4></summary>
-<details>
+<details><summary><h4 align="left">Conquistas: 🏆</h4></summary>
+
 <p align="left">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&theme=nord&margin-w=10)](https://github.com/Heber-Dsouza/github-profile-trophy)
+
 </details>
 
 <h4 align="left">Atividade: 📋</h4>
