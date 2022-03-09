@@ -1,4 +1,5 @@
-<h1 align="center">Seja bem vindo(a)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Meu nome é Loureço De Souza</h1>
+<h1 align="center">Seja bem vindo(a)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Meu nome é Loureço De Souza</h1>
 
 - 🌱 Eu estou atualmente aprendendo Javascript e outras linguagens.
 
