@@ -1,7 +1,9 @@
 <div align="center">
-<span style = "font-size: 32px">Seja bem vindo(a)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span><br>
-<span style = "font-size: 32px">Meu nome é Lourenço De Souza</span>
+<font size= "1">Seja bem vindo(a)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></font><br>
+<font size= "3">Meu nome é Lourenço De Souza</font>
 </div>
+
+
 
 
 - 🌱 Eu estou atualmente aprendendo Javascript e outras linguagens.
