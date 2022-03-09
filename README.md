@@ -1,6 +1,6 @@
 <div align="center">
-<h1>Seja bem vindo(a)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1><br>
-<h1>Meu nome é Loureço De Souza</h1>
+<span style = "font-size: 32pt">Seja bem vindo(a)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></span><br>
+<span style = "font-size: 32pt">Meu nome é Loureço De Souza</span>
 </div>
 
 
