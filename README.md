@@ -12,10 +12,10 @@
  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Dsouza&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Dsouza&theme=vue-dark)](https://github.com/Heber-Dsouza/github-readme-stats)
 
 
-
+<!-- anuraghazra -->
 
 
 <details>
