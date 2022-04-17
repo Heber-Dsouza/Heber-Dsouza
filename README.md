@@ -14,6 +14,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Dsouza&theme=vue-dark)](https://github.com/Heber-Dsouza/github-readme-stats)
 
+<h4 align="left">Atividade: 📋</h4>
+
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Heber-Dsouza&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Heber-Dsouza&theme=vue-dark" />
+</p>  
 
 <!-- anuraghazra -->
 
@@ -32,14 +38,6 @@
 <h4 align="left">Visualizações do Perfil: 🧐</h4>
   
 ![Profile views](https://gpvc.arturio.dev/Heber-Dsouza)
-
-
-<h4 align="left">Atividade: 📋</h4>
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Heber-Dsouza&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Heber-Dsouza&theme=vue-dark" />
-</p>  
 
 
 
