@@ -24,14 +24,23 @@
 <!-- anuraghazra -->
 
 
-<details>
+<!-- <details>
 <summary>Conquistas: 🏆</summary>
 
 <p align="left">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&theme=nord&margin-w=10)](https://github.com/Heber-Dsouza/github-profile-trophy)
 
-</details>
+</details> -->
+
+
+ 
+<h4>Conquistas: 🏆</h4>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&theme=nord&margin-w=10)](https://github.com/Heber-Dsouza/github-profile-trophy)
+ 
+
+
 
 
 
