@@ -4,7 +4,7 @@
 </div>
 
 
-- 🌱 Eu estou atualmente aprendendo Javascript e outras linguagens.
+- 💻 Desenvolvedor Front-End a caminho de ser Back-End
 
 - 📫 Como me encontrar: lourenco.h.colares@gmail.com
 
@@ -15,6 +15,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Dsouza&theme=vue-dark)](https://github.com/Heber-Dsouza/github-readme-stats)
 
 <h4 align="left">Atividade: 📋</h4>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Heber-Dsouza&theme=github)](https://github.com/Heber-Dsouza/github-readme-activity-graph)
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Heber-Dsouza&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true" /> 
