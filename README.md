@@ -8,7 +8,7 @@
 
 - 📫 Como me encontrar: lourenco.h.colares@gmail.com
 
-### &#x1f4c8; Minhas Estatísticas no GitHub🎯
+#### &#x1f4c8; Minhas Estatísticas no GitHub🎯
  
 
 
