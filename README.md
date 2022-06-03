@@ -4,7 +4,7 @@
 </div>
 
 
-- 💻 Desenvolvedor Front-End a caminho de ser Back-End
+- 💻 Desenvolvedor Full Stack
 
 - 📫 Como me encontrar: lourenco.h.colares@gmail.com
 
