@@ -1,5 +1,5 @@
 <div align="left">
-<span style = "font-size: 32px">Seja bem vindo(a)</span><br>
+<h2 style = "font-size: 32px">Seja bem vindo(a)</h2>
 <span style = "font-size: 32px">Meu nome é Lourenço De Souza</span>
 </div>
 
