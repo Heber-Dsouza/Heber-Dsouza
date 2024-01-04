@@ -6,7 +6,7 @@
 
 - 💻 Desenvolvedor Full Stack
 
-- 📫 Como me encontrar: lourenco.h.colares@gmail.com
+- 📫 Como me encontrar: www.linkedin.com/in/heber-dsouza/
 
 #### &#x1f4c8; Minhas Estatísticas no GitHub🎯
  
