@@ -30,7 +30,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&theme=nord&margin-w=10)](https://github.com/Heber-Dsouza/github-profile-trophy)
 
 <div align="center">
-  <h3>🧐 Visitors Count:</h3>  
+  <h3>Visitors Count:</h3>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Heber-Dsouza}/count.svg" /></p> 
 </div>
 
