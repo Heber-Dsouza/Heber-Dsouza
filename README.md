@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=273849&height=100&section=header"/>
 
 <div align="left">
 <h2 style = "font-size: 32px">Seja bem vindo(a)</h2>
@@ -70,4 +70,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - fill with more information...
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7F3ACE&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=273849&height=100&section=footer"/>
