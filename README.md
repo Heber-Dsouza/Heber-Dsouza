@@ -1,10 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=273849&height=100&section=header"/>
-
-<div align="left">
-<h2 style = "font-size: 32px">Seja bem vindo(a)</h2>
-<span style = "font-size: 32px">Meu nome é Lourenço De Souza</span>
-</div>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=36826A&center=true&vCenter=true&repeat=false&width=1000&height=200&lines=Be+Welcome!)](https://git.io/typing-svg)
 
 - 💻 Desenvolvedor Full Stack
 
@@ -42,6 +37,13 @@
 <h4 align="left">Visualizações do Perfil: 🧐</h4>
   
 ![Profile views](https://gpvc.arturio.dev/Heber-Dsouza)
+-->
+
+<!-- Antigo:
+<div align="left">
+<h2 style = "font-size: 32px">Seja bem vindo(a)</h2>
+<span style = "font-size: 32px">Meu nome é Lourenço De Souza</span>
+</div>
 -->
 
 <!-- Dicas:
