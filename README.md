@@ -25,37 +25,24 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Heber-Dsouza&theme=vue-dark" />
 </p>  
 
-<!-- anuraghazra -->
-
-<!-- <details>
-<summary>Conquistas: 🏆</summary>
-
-<p align="left">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&theme=nord&margin-w=10)](https://github.com/Heber-Dsouza/github-profile-trophy)
-
-</details> -->
-
-
- 
 <h4>Conquistas: 🏆</h4>
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&theme=nord&margin-w=10)](https://github.com/Heber-Dsouza/github-profile-trophy)
- 
 
+<div align="center">
+  <h3>🧐 Visitors Count:</h3>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Heber-Dsouza}/count.svg" /></p> 
+</div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=273849&height=100&section=footer"/>
 
-
-
+<!-- Antigo:
 <h4 align="left">Visualizações do Perfil: 🧐</h4>
   
 ![Profile views](https://gpvc.arturio.dev/Heber-Dsouza)
+-->
 
-
-
-
-
-<!--
+<!-- Dicas:
 **Heber-Dsouza/Heber-Dsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -70,4 +57,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - fill with more information...
 -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=273849&height=100&section=footer"/>
+
+<!-- Não implementado
+<details>
+<summary>Conquistas: 🏆</summary>
+
+<p align="left">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&theme=nord&margin-w=10)](https://github.com/Heber-Dsouza/github-profile-trophy)
+
+</details> 
+-->
