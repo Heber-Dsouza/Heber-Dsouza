@@ -4,6 +4,15 @@
 
 #
 
+<div align="center">
+ <h3>Contact-me:</h3>
+ <a href="mailto:lourenco.h.colares@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-36826A?style=for-the-badge&logo=gmail&logoColor=white"</a>
+ <a href="https://www.linkedin.com/in/heber-dsouza" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-36826A?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+ <a href="https://contate.me/heber-dsouza" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-36826A?style=for-the-badge&logo=whatsapp&logoColor=white"</a>
+</div>
+
+#
+
 | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heber-Dsouza&layout=compact&theme=vue-dark&card_width=500&card_height=250)](https://github.com/Heber-Dsouza/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Heber-Dsouza&theme=vue-dark&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=150)](https://git.io/streak-stats) |
 | ----------- | ----------- |
 
