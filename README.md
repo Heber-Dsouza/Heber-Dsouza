@@ -21,6 +21,16 @@
 
 #
 
+<div align="center" >
+ <br />
+ <a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,vite,materialui,tailwind,styledcomponents,nodejs,express,nest,figma,git,github,linux,postman,postgres,vscode,discord,linkedin" />
+ </a>
+ <br />
+</div>
+
+#
+
 
 <div align="center" >
  <img src="https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&row=1&column=7&theme=nord&margin-w=15&margin-h=15"/>
