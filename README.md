@@ -24,7 +24,7 @@
 <div align="center" >
  <br />
  <a href="https://skillicons.dev"   >
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,vite,materialui,tailwind,styledcomponents,nodejs,express,nest,figma,git,github,linux,postman,postgres,vscode,discord,linkedin" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,css,html,react,vite,materialui,tailwind,styledcomponents,redux,nodejs,express,nest,npm,regex,c,cpp,cmake,cs,dotnet,py,figma,git,github,redis,mysql,postgres,postman,azure,vscode,visualstudio,webstorm,clion,rider,pycharm,linux,windows,discord,notion,stackoverflow,sublime" />
  </a>
  <br />
 </div>
