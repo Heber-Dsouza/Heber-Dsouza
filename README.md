@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=273849&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&size=30&duration=1&color=36826A&center=true&vCenter=true&repeat=false&width=1000&lines=Be+Welcome!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&size=30&duration=1&color=36826A&center=true&vCenter=true&repeat=false&width=1000&lines=Hi!+I'm+a+fullStack+software+developer!)](https://git.io/typing-svg) 
 
 #
 
