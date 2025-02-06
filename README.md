@@ -31,12 +31,9 @@
 
 #
 
-
 <div align="center" >
  <img src="https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&row=1&column=7&theme=nord&margin-w=15&margin-h=15"/>
 </div>
-
-
 
 <div align="center">
   <h3>Visitors Count:</h3>  
