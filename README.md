@@ -35,6 +35,7 @@
  <img src="https://github-profile-trophy.vercel.app/?username=Heber-Dsouza&row=1&column=7&theme=nord&margin-w=15&margin-h=15"/>
 </div>
 
+
 <div align="center">
   <h3>Visitors Count:</h3>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Heber-Dsouza}/count.svg" /></p> 
